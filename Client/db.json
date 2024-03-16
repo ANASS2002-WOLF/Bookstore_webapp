@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "To kill a mockingbird",
+      "author": "Harper Lee",
+      "genre": "classic",
+      "published_at": "1960-07-11",
+      "onStock": false
+    },
+    {
+      "id": "2",
+      "title": "The great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "published_at": "1925-04-10",
+      "onStock": false
+    },
+    {
+      "id": "3",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Political Satire",
+      "published_at": "1945-08-17",
+      "onStock": true
+    },
+    {
+      "id": "4",
+      "title": "the hunter",
+      "author": "kee kjim son",
+      "genre": "guerre",
+      "published_at": "2002",
+      "onStock": true
+    }
+  ]
+}
