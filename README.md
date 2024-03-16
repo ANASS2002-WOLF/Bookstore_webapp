@@ -1,4 +1,3 @@
-Open this file on your terminal 
-run with command line 
-> npm run dev 
+# Open this file on your terminal and run with command line 
+>  ## npm run dev 
 
